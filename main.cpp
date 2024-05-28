@@ -10,7 +10,7 @@
 using namespace std;
 
 int main() {
-  cout << "Hello!" << endl;
+  cout << "Hello" << endl;
   cout << "Hello\n";
   cout << "\"Hello\"" << endl;
   cout << "\\n means newline\n\n";
